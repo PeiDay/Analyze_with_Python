@@ -20,7 +20,7 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
 
 ## Task I: PyBank Budget Analysis
 
-* In this challenge, I am creating a Python script for analyzing the financial records of a small company. The set of financial data called `budget_data.csv` is stored in the [Resources] folder. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+* In this challenge, I am creating a Python script for analyzing the financial records of a small company. The set of financial data called `budget_data.csv` is stored in the **Resources** folder. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * My Python script analyzes the bueget records to calculate the following information:
 
@@ -48,13 +48,13 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
     ---------------------------------------------------
     ```
 
-  * In addition, the final script will be exported as a text file with the results.
+  * In addition, the final script will be exported as a text file with the results and saved at the **Analysis** folder.
 
 
 
 ## Task II: PyPoll Election Result
 
-* In this challenge, I am tasked with helping a small, rural town modernize its vote counting process.  The set of poll data called `election_data.csv` is stored in the [Resources] folder. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
+* In this challenge, I am tasked with helping a small, rural town modernize its vote counting process.  The set of poll data called `election_data.csv` is stored in the **Resources** folder. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
 
 * My Python script analyzes the vote records to calculate the election result that includes the following infirmation:
 
@@ -84,4 +84,4 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
     -------------------------
     ```
 
-  * In addition, the final script will be exported as a text file with the results.
+  * In addition, the final script will be exported as a text file with the results and saved at the **Analysis** folder.
