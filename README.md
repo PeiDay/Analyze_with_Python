@@ -20,7 +20,7 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
 
 ## Task I: PyBank Budget Analysis
 
-* In this challenge, I am creating a Python script for analyzing the financial records of a small company. The set of financial data called [budget_data.csv] is stored in the Resources folder. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
+* In this challenge, I am creating a Python script for analyzing the financial records of a small company. The set of financial data called `budget_data.csv` is stored in the [Resources] folder. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
 * My Python script analyzes the bueget records to calculate the following information:
 
@@ -28,8 +28,8 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
 
   * The net total amount of "Profit/Losses" shows the Net changes over the entire period;
 
-  * The total differences in "Profit/Losses" over the entire period, 
-    and calculation the average of those differences;
+  * The total differences of the monthly changes in "Profit/Losses" over the entire period, 
+    and calculate the average of those differences;
 
   * The greatest increase in profits (date and amount) over the entire period;
 
@@ -54,7 +54,7 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
 
 ## Task II: PyPoll Election Result
 
-* In this challenge, I am tasked with helping a small, rural town modernize its vote counting process.  The set of poll data called [election_data.csv] is stored in the Resources folder. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
+* In this challenge, I am tasked with helping a small, rural town modernize its vote counting process.  The set of poll data called `election_data.csv` is stored in the [Resources] folder. The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
 
 * My Python script analyzes the vote records to calculate the election result that includes the following infirmation:
 
