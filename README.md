@@ -1,2 +1,2 @@
-# Python-Challrnge
+# Python-Challenge
 Python challenges
