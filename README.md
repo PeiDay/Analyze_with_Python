@@ -48,7 +48,7 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
     ---------------------------------------------------
     ```
 
-  * In addition, the final script is exported as a text file with the results.
+  * In addition, the final script will be exported as a text file with the results.
 
 
 
@@ -84,4 +84,4 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
     -------------------------
     ```
 
-  * In addition, the final script is exported as a text file with the results.
+  * In addition, the final script will be exported as a text file with the results.
