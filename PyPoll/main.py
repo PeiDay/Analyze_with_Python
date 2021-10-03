@@ -45,7 +45,7 @@ print('-------------------------------------------')
 # Count votes and percentage for each candidate from dictionary
 for candidate in candidate_vote:
     votes_count = candidate_vote.get(candidate)
-    vote_rate = (votes_count / totalVote) * 100
+    vote_rate = f(votes_count / totalVote) * 100
     print(f'{candidate} : {vote_rate:.3f}% ({candidate_vote[candidate]})')
 
 
