@@ -35,7 +35,7 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
 
   * The greatest decrease in profits (date and amount) over the entire period;
   
-  * Below is the format of my scrpit that will be printed to the Termianl::
+  * Below is the format of my scrpit that will be printed to the Termianl:
 
     ```text
     Financial Analysis
@@ -68,7 +68,7 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
 
   * The winner of the election based on popular vote;
 
-  * Below is the format of my scrpit that will be printed to the Termianl::
+  * Below is the format of my scrpit that will be printed to the Termianl:
 
     ```text
     Election Results
