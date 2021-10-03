@@ -7,7 +7,7 @@ Welcome to the world of programming with Python. In this assignment, I am applyi
 
 # Steps
 
-* Inside this Python Challenge repository, there are two fodlers: **PyBank** and **PyPoll**.
+* Inside this Python Challenge repository, there are two folders: **PyBank** and **PyPoll**.
 
 * Inside of each folder, there are following information:
 
